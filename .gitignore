@@ -1,0 +1,10 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Input directories
+files/
+*.csv
+
+# Keep for empty dirs
+!.keep
